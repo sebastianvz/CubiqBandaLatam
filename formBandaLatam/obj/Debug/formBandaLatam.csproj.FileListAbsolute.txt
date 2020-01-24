@@ -1,0 +1,10 @@
+c:\users\vaado\documents\visual studio 2015\Projects\bandaCubiqLatam\formBandaLatam\bin\Debug\formBandaLatam.exe.config
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\bin\Debug\formBandaLatam.exe.config
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\bin\Debug\formBandaLatam.exe
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\bin\Debug\formBandaLatam.pdb
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.csprojResolveAssemblyReference.cache
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.FormCubiq.resources
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.Properties.Resources.resources
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.csproj.GenerateResource.Cache
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.exe
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\formBandaLatam\obj\Debug\formBandaLatam.pdb

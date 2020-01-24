@@ -1,0 +1,14 @@
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\bin\Debug\WpfCubiqBanda.exe.config
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\bin\Debug\WpfCubiqBanda.exe
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\bin\Debug\WpfCubiqBanda.pdb
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.csprojResolveAssemblyReference.cache
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\MainWindow.g.cs
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\App.g.cs
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda_MarkupCompile.cache
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda_MarkupCompile.lref
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\MainWindow.baml
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.g.resources
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.Properties.Resources.resources
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.csproj.GenerateResource.Cache
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.exe
+C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\WpfCubiqBanda\obj\Debug\WpfCubiqBanda.pdb
