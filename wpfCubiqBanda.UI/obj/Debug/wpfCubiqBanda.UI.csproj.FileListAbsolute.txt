@@ -12,3 +12,23 @@ C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\wpfCubiqBanda.UI\obj\Debug\wpfC
 C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.csproj.GenerateResource.Cache
 C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.exe
 C:\Users\Vaado\Desktop\Sebastian\bandaCubiqLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.pdb
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\wpfCubiqBanda.UI.exe.config
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\wpfCubiqBanda.UI.exe
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\wpfCubiqBanda.UI.pdb
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.csprojAssemblyReference.cache
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\MainWindow.g.cs
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\App.g.cs
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI_MarkupCompile.cache
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI_MarkupCompile.lref
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\MainWindow.baml
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.g.resources
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.Properties.Resources.resources
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.csproj.GenerateResource.cache
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.exe
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.pdb
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\obj\Debug\wpfCubiqBanda.UI.csproj.CopyComplete
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\RestSharp.dll
+C:\Users\Sebastian Velez\Source\Repos\CubiqBandaLatam\wpfCubiqBanda.UI\bin\Debug\RestSharp.xml
