@@ -27,10 +27,10 @@
         <Grid HorizontalAlignment="Left" Height="669" Margin="794,10,0,0" VerticalAlignment="Top" Width="478">
             <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="669" VerticalAlignment="Top" Width="478"/>
             <Label x:Name="lblAlto_Copy" Content="WAM:" HorizontalAlignment="Left" Margin="18,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.281,0.551" Width="117" FontSize="28" Height="47"/>
-            <TextBox x:Name="txtWan" TextWrapping="Wrap" Margin="135,10,144,612" FontSize="24"/>
+            <TextBox x:Name="txtWan" TextWrapping="Wrap" Margin="135,10,144,612" FontSize="24" KeyDown="txtWan_KeyDown"/>
             <Label x:Name="lblAlto_Copy4" Content="MAWB:" HorizontalAlignment="Left" Margin="18,72,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.281,0.551" Width="117" FontSize="28" Height="47"/>
             <ComboBox x:Name="cmbMawb" HorizontalAlignment="Left" VerticalAlignment="Top" Width="316" Margin="135,72,0,0" Height="47" FontSize="24" SelectionChanged="CmbMawb_SelectionChanged"/>
-            <Button x:Name="btnbuscarWAM" Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="112" Margin="339,10,0,0" Height="47" FontSize="24" Click="BtnbuscarWAM_Click" KeyDown="BtnbuscarWAM_KeyDown" TouchEnter="BtnbuscarWAM_TouchEnter"/>
+            <Button x:Name="btnbuscarWAM" Content="Buscar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="112" Margin="339,10,0,0" Height="47" FontSize="24" Click="BtnbuscarWAM_Click"/>
             <Grid x:Name="gridHabuttons" HorizontalAlignment="Left" Height="517" VerticalAlignment="Top" Width="433" Margin="18,142,0,0">
             </Grid>
         </Grid>

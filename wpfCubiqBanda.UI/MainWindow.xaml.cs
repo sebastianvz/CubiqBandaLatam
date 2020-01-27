@@ -190,5 +190,12 @@ namespace wpfCubiqBanda.UI
 
         }
 
+        private void txtWan_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Return)
+            {
+                MessageBoxResult result = MessageBox.Show("Enter touch");
+            }
+        }
     }
 }
